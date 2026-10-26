@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="40" fill="url(#paint0_linear_1_2)"/>
+  <circle cx="947" cy="147" r="168" fill="#F6C453" fill-opacity="0.18"/>
+  <circle cx="220" cy="680" r="190" fill="#0F8F4A" fill-opacity="0.35"/>
+  <rect x="178" y="175" width="844" height="540" rx="32" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.16)"/>
+  <path d="M456 330C456 287.026 490.026 253 533 253H667C709.974 253 744 287.026 744 330V401H456V330Z" fill="#F6C453"/>
+  <path d="M409 403H790V522C790 557.346 760.346 587 725 587H474C438.654 587 409 557.346 409 522V403Z" fill="#0F8F4A"/>
+  <rect x="489" y="438" width="219" height="88" rx="14" fill="#EFFBF3"/>
+  <path d="M545 482H651" stroke="#0F8F4A" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="233" cy="250" r="36" fill="#F6C453"/>
+  <circle cx="986" cy="658" r="48" fill="#F6C453" fill-opacity="0.75"/>
+  <text x="600" y="704" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="62" font-weight="700">Total Énergie</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="94" y1="77" x2="1086" y2="824" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B5536"/>
+      <stop offset="0.5" stop-color="#0F8F4A"/>
+      <stop offset="1" stop-color="#0A2F23"/>
+    </linearGradient>
+  </defs>
+</svg>
